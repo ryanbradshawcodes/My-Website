@@ -14,7 +14,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## YouTube Privacy Enhanced Shortcode
 
-{{< youtube ZJthWmvUzzc >}}
+{{< youtube Noz8-92pOFw >}}
 
 
 ## Twitter Simple Shortcode

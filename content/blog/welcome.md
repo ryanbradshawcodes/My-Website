@@ -32,6 +32,7 @@ I may even deviate from this standard format and post videos about any personal 
 
 When I post about my YouTube activity I will give it the **youtube** tag, and I may also provide the specific module as well. On the blog post itself I will embed the YouTube video and also provide my digitally handwritten workings and any additional links I think are relevant. 
 
+I have already created a fair few videos prior to creating this website, but I do not have any additional information for them so I will not post them here.
 
 
 ### Completed projects
