@@ -19,10 +19,9 @@ This will include:
 * Any activity regarding my [YouTube channel](https://www.youtube.com/channel/UCtMZAr3sYLpx91sQ8De4YbA)
 * Completed projects
 * LeetCode problems
+* Some informative rambling
 * Anything else I think could be beneficial for others :)
 
-
- 
 ### YouTube
 
 On my YouTube channel I post *potentially helpful* videos for revision. They typically go through question(s) from a specific section within a module.
@@ -34,7 +33,6 @@ When I post about my YouTube activity I will give it the **youtube** tag, and I 
 
 I have already created a fair few videos prior to creating this website, but I do not have any additional information for them so I will not post them here.
 
-
 ### Completed projects
 
 These will be categorised with the **project** tag. I intend to provide a full rundown of the project which will include:
@@ -45,8 +43,6 @@ These will be categorised with the **project** tag. I intend to provide a full r
 
 But first... I need to actually have a personal project worth showing :( Perhaps the website itself would count! 
 
-
-
 ### LeetCode problems
 
 [LeetCode](https://leetcode.com/) is a platform that provids thousands of programming challenges that typically arise in technical interviews. 
@@ -54,6 +50,10 @@ It is a great resource to practice and improve your programming skills. There ar
 but I am happy working with LeetCode.
 
 These posts will be created with the **leetcode** tag, and I may also have a more general **challenge** tag for any similar coding/engineering problems I complete that are not projects.
+
+### Informative rambling
+
+I'll tag this with **ramble** and these posts will be university related but not completely academic. For instance, I plan to write a sort of review for my first year here.
 
 ### Other
 

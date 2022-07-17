@@ -51,19 +51,20 @@ In my exam I tried rushing every question, which caused me to panic more when I 
 
 #### Overview
 
-Here you are going to learn all about the things that make your computer work. Matthew Leeke was the module organiser of the module for some time, however he has now left so my view of the module may no longer be as relevant. See the [module webpage](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs132/) for more in-depth details.
+Here you are going to learn all about the things that make your computer work (with some C programming on the side). Matthew Leeke was the module organiser of the module for some time, however he has now left so my view of the module may no longer be as relevant. See the [module webpage](https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs132/) for more in-depth details.
 
 #### Merits
 
-* <span style="color:green">The coursework is very visual and hence rewarding (when it works)</span>
+* <span style="color:green">Engaging, well-organised (but is dependent on the organiser)</span>
 
 #### Downfalls
 
 * <span style="color:red">The previous module organiser left (they were excellent)</span>
+* <span style="color:red">There is a fair amount of content you just have to remember (and diagrams)</span>
 
 #### My advice
 
-
+Provided the marking stays consistent with a change in organiser, focus on your documentation for your coursework assignments. Even if you have outstanding code, if you do not have the documentation to back it up you will not do nearly as well as you would have thought. Additionally, provided you have really extensive and well-developed documentation, your code does not even have to be anything too amazing. Ideally you practice doing some basic code in C, and from there the courseworks should be a breeze.
 
 ### CS126
 
