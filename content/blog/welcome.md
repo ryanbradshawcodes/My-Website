@@ -23,7 +23,7 @@ This will include:
 
 
  
-### YouTube yy
+### YouTube yy see me
 
 On my YouTube channel I post *potentially helpful* videos for revision. They typically go through question(s) from a specific section within a module.
 I intend to continue doing this throughout my time at university, and work on producing content at an increased rate over a larger range of modules.
