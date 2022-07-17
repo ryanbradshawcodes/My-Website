@@ -122,6 +122,10 @@ And finally, for the PDP, you really do not have to do much to get full marks (f
 
 #### Overview
 #### Merits
+
+* <span style="color:green">No tricks. Just maths.</span>
+* <span style="color:green">If you have done A-level further maths you will already know ~80% of the content</span>
+
 #### Downfalls
 #### My advice
 
@@ -129,6 +133,11 @@ And finally, for the PDP, you really do not have to do much to get full marks (f
 
 #### Overview
 #### Merits
+
+* <span style="color:green">Very well organised</span>
+* <span style="color:green">Plenty of useful resources provided</span>
+* <span style="color:green">Fairly engaging group project</span>
+
 #### Downfalls
 #### My advice
 
@@ -136,12 +145,24 @@ And finally, for the PDP, you really do not have to do much to get full marks (f
 
 #### Overview
 #### Merits
+
+* <span style="color:green">A surprisingly pleasant exam</span>
+
 #### Downfalls
+
+* <span style="color:red">Was poorly organised and rushed at the end</span>
+
 #### My advice
 
-### ES192
+### ES192 (Optional for CSE)
 
 #### Overview
 #### Merits
+
+* <span style="color:green">Group projects can actually be very fun!</span>
+
 #### Downfalls
+
+* <span style="color:red">But sometimes they are bad!</span>
+
 #### My advice
