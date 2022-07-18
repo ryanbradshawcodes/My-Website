@@ -12,7 +12,7 @@ toc: true
 
 ## Motivation
 
-For the first project on my blog I thought it would be fitting to go through the process of how I got this website setup and running. I created this website using Hugo, GitHub, and Netlify.
+For the first project on my blog I thought it would be fitting to go through the process of how I got this website setup and running. I created this website using Hugo, GitHub, and Netlify. If you do not want a custom domain, you can avoid using Netlify and you can just use [GitHub pages](https://pages.github.com/) instead.
 
 ### Prerequisites
 
