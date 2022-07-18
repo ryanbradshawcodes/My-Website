@@ -65,3 +65,7 @@ The next issue I had was that I created a different repository by accident so wh
 Go and explore it yourself!
 
 ### Reflection
+
+Although I did not code the website from scratch I was still able to gain an appreciation for the processes involved. Moreover, I was able to use GitHub more which was beneficial as I want to become more comptetent at it since it is so widely used in industry.
+
+I intent to continue adding blog posts to this website, and hopefully I will be able to modify it further to make it truly my own. Stay tuned!
