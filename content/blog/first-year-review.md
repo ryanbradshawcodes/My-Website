@@ -22,6 +22,8 @@ I'm going to go through each module individually, providing:
 
 As a [Computer Systems Engineer](https://warwick.ac.uk/study/undergraduate/courses/compsysengmeng/) I take a mix of modules from both the Computer Science and the Engineering deparments. The course is not particularly popular (there are about 30 of us in my year), but we will hopefully develop a much wider range of skills that employers will value. Our course is often forgetten about and it is likely you will experience timetabling issues if you take this course, but there have not been any major issues yet for me.
 
+If you have any questions or want any additional information, feel free to contact me on any of my listed socials!
+
 ### CS118
 
 #### Overview
@@ -121,32 +123,65 @@ And finally, for the PDP, you really do not have to do much to get full marks (f
 ### ES193
 
 #### Overview
+
+This is a maths module which follows a very similar format to A-level Maths/Further Maths. See the [module webpage](https://courses.warwick.ac.uk/modules/2021/ES193-15#description) for more details.
+
 #### Merits
 
 * <span style="color:green">No tricks. Just maths.</span>
 * <span style="color:green">If you have done A-level further maths you will already know ~80% of the content</span>
+* <span style="color:green">Organised and taught well in our year</span>
+* <span style="color:green">Plenty of good resources provided</span>
+* <span style="color:green">Small class tutorials!</span>
 
 #### Downfalls
+
+* <span style="color:red">Could be seen as a bit dull since you will not be doing anything practical</span>
+* <span style="color:red">The effectiveness of the tutorial varies wildly depending on the teacher you get</span>
+
 #### My advice
+
+You will get advised to use a textbook to complete some problems before working on a worksheet that will be used in the tutorial. Just do as many practice questions from the book as you can and then do all the tutorial questions (even if you will not have to answer it in the tutorial session).
+
+The exam does not give any questions that are harder than the tutorial questions, so your revision will pay off massively.
 
 ### ES197
 
 #### Overview
+
+Time for some system analysis. Here you will work with diagrams, graphs and MATLAB. See the [module webpage](https://courses.warwick.ac.uk/modules/2020/ES197-15) for more details.
+
 #### Merits
 
 * <span style="color:green">Very well organised</span>
 * <span style="color:green">Plenty of useful resources provided</span>
 * <span style="color:green">Fairly engaging group project</span>
+* <span style="color:green">Lots of labs to get stuck into</span>
 
 #### Downfalls
+
+* <span style="color:red">The exam may test your knowledge in a way that is not directly copying the worksheets - so prepare well</span>
+
 #### My advice
+
+This was one of my favourite modules because there was a lot to do in it. You will be given worksheets, revision quizzes, labs, and a group project at the end. It sounds like a lot but it was organised well and the assessment of the module is spread out well between MATLAB quizzes, the exam, and the group project.
+
+For the quizzes just make sure you have prepared well by completing all the labs fully. Additionally, ask the lab tutors as many questions as you can whenever you get confused to ensure you are understanding it all properly. When it comes to the quizzes themselves there was 1 strictly timed quiz for us and then the rest we had multiple days to complete. For the strictly timed quiz make sure you have some notes handy in case your mind goes blank. For the other quizzes just take your time on them and check your answers multiple times to avoid disappointment.
+
+As stated the exam does actually try and test your understanding so the questions may not be exactly what you are expecting (there will be little twists). If you are able to complete the worksheet questions comfortably you should be able to deal with these twists just fine.
+
+Finally, for the group project, there are multiple ones to choose from for normal engineers. If you are on the CSE course you will get assigned the balancing robot project no matter what (at least that is how the past 2 years have gone). You only get a week for this project so essentially start working on it straight away and ask the teaching assisstants for as much help as possible. There is a large focus on the documentation for this project with lots of mini deadlines to meet, so make sure your team are organised so you stay on track.
 
 ### ES191
 
 #### Overview
+
+Here you will find lots of circuits. See the [module webpage](https://courses.warwick.ac.uk/modules/2020/ES191-15) for more details.
+
 #### Merits
 
 * <span style="color:green">A surprisingly pleasant exam</span>
+* <span style="color:green">Loads of practice quizzes to revise with</span>
 
 #### Downfalls
 
@@ -154,15 +189,33 @@ And finally, for the PDP, you really do not have to do much to get full marks (f
 
 #### My advice
 
+Personally I thought this was a great module (excluding the downfall). In the first lecture the first module organiser (we had 3) rushed through 5 hours of content but we will ignore that since none of it was examined anyway (if you did not do A-level Physics I would still take the time to learn it properly though for the future). 
+
+The key to this module is completing every single quiz available. Once you are able to get 100% in every single one by working through them on your own, you will absolutely be ready for the exam.
+
 ### ES192 (Optional for CSE)
 
 #### Overview
+
+Time to get practical with CAD and group projects. See the [module webpage](https://courses.warwick.ac.uk/modules/2020/ES192-15) for more details.
+
 #### Merits
 
+* <span style="color:green">The labs are engaging</span>
 * <span style="color:green">Group projects can actually be very fun!</span>
 
 #### Downfalls
 
-* <span style="color:red">But sometimes they are bad!</span>
+* <span style="color:red">But sometimes group projects are bad!</span>
 
 #### My advice
+
+During the first few weeks you will basically only be doing CAD work. Try to keep up with it and also complete all the tasks, it is going to be a vital skill that you want to start working on as soon as possible.
+
+You will have a few labs to complete which will go towards your portfolio. Don't take any shortcuts while doing these labs! You will get a few hours for each lab and that will be it, so if you miss any details from them you will be forced to frantically ask people in the group chats - try not to be that person. The portfolio can feel quite overwhelming since there is a lot to do for it, but it is also not worth much of the module so it acts as a low risk way to try and combine all the skills you have learnt together.
+
+There was also a strictly timed quiz about soldering, just pay attention in the soldering lab and have some notes handy during the quiz.
+
+Personally the group projects have been the highlight of my university experience so far. I was lucky enough to have fairly practive teams on both occasions, and overall it was just a lot of fun.
+
+For these projects you get a few weeks. **Use them**. Organise your team and plan out what you need to get done. In addition to that, do not leave your report to the last few days either, continuously work on it throughout the entire duration of the project, and then spend the last few days formatting it (make it pretty). The success of your project (in terms of the grade you get)is more dependent on the documentation rather than the product itself, so keep that in mind if the practical side starts to go wrong.

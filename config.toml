@@ -20,7 +20,7 @@ copyright = "© {year}"
   dateFormat = "Jan 2 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
-  #twitter = "https://twitter.com/<your handle>"
+  twitter = "https://twitter.com/ryanbradshawuk"
   github = "https://github.com/ryanbradshawcodes"
   # email = "mailto:<your email>"
   # mastodon = "https://mastodon.social/@nickname"
@@ -33,7 +33,7 @@ copyright = "© {year}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["YouTube", "LinkedIn", "GitHub"]
+  iconOrder = ["YouTube", "LinkedIn", "GitHub", "Twitter"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
