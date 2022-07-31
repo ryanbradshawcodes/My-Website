@@ -1,11 +1,11 @@
 ---
-title: "Making myself accountable (LeetCode)"
+title: "Making myself accountable"
 date: 2022-07-30
 slug: "leetcode"
 description: "An explanation of how I intend to go through LeetCode problems and document it"
 keywords: ["guide", "website", "leetcode", "problem", "warwick", "university", "student"]
 draft: false
-tags: ["leetcode"]
+tags: ["ramble"]
 math: false
 toc: true
 ---

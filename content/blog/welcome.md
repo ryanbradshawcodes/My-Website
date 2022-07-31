@@ -49,7 +49,7 @@ But first... I need to actually have a personal project worth showing :( Perhaps
 It is a great resource to practice and improve your programming skills. There are various other websites similar to this (which I'm sure you can find with a simple search)
 but I am happy working with LeetCode.
 
-These posts will be created with the **leetcode** tag, and I may also have a more general **challenge** tag for any similar coding/engineering problems I complete that are not projects.
+These posts will be created with the **leetcode <<difficulty>>** tag, and I may also have a more general **challenge** tag for any similar coding/engineering problems I complete that are not projects.
 
 ### Informative rambling
 

@@ -1,11 +1,11 @@
 ---
-title: "Roman to integer converter (LeetCode Easy)"
+title: "Roman to integer converter"
 date: 2022-07-31
 slug: "leetcode-13"
 description: "LeetCode problem 13 - Roman to integer converter"
-keywords: ["guide", "website", "leetcode", "problem", "warwick", "university", "student", "13", "roman"]
+keywords: ["guide", "website", "leetcode", "easy", "problem", "warwick", "university", "student", "13", "roman"]
 draft: false
-tags: ["leetcode"]
+tags: ["leetcode easy"]
 math: false
 toc: true
 ---
