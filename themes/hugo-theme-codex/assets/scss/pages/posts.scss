@@ -13,7 +13,7 @@
 }
 
 .post__header .tags__list {
-  display: none;
+  display: all;
   padding-left: 0;
 
   @media screen and (max-width: $medium - 1) {
@@ -37,11 +37,11 @@
 .tag__link {
   text-decoration: none;
   color: $grey;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 
   &::before {
     content: "#";
-    font-size: 0.7rem;
+    font-size: 1.0rem;
     padding-right: 1px;
   }
 

@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "Ryan Bradshaw"
 languageCode = "en-us"
 baseURL = "https://ryanbradshaw.dev"
-copyright = "© {year}"
+copyright = "© {2022}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
