@@ -5,7 +5,7 @@ slug: "leetcode-13"
 description: "LeetCode problem 13 - Roman to integer converter"
 keywords: ["guide", "website", "leetcode", "easy", "problem", "warwick", "university", "student", "13", "roman"]
 draft: false
-tags: ["leetcode easy"]
+tags: ["leetcode-easy"]
 math: false
 toc: true
 ---

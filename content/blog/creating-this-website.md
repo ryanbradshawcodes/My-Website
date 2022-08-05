@@ -14,15 +14,15 @@ toc: true
 
 For the first project on my blog I thought it would be fitting to go through the process of how I got this website setup and running. I created this website using Hugo, GitHub, and Netlify. If you do not want a custom domain, you can avoid using Netlify and you can just use [GitHub pages](https://pages.github.com/) instead.
 
-### Prerequisites
+## Prerequisites
 
 Creating the website in the way I did requires no previous knowledge, there are some excellent tutorials out there which I will reference that will guide you through the process. At the start of each subsection I will provide some brief, bulleted steps. I would encourage you to still watch the video as this will ensure you do not miss anything.
 
 Anything that needs downloading will be linked in the bulleted steps where appropriate. Aside from that all you should need is a GitHub account which is very simple to setup.
 
-### Development
+## Development
 
-#### Initial setup
+### Initial setup
 
 * [Install Hugo](https://gohugo.io/getting-started/installing)
 * Create your site folder
@@ -31,7 +31,7 @@ Anything that needs downloading will be linked in the bulleted steps where appro
 
 {{< youtube c7vpcqA6SEQ >}}
 
-#### Using Netlify
+### Using Netlify
 
 A note on the final point. I struggled at this step as I firstly created a repository for my whole desktop meaning there were 10,000+ changes mentioned in the source control. To fix this I found the culprit folder by typing `git rev-parse --show-toplevel` in a terminal directed to your site folder. Then navigate to that folder, show your hidden files and you should be able to see it. You can then delete this and ensure you only have the git repository in your site folder.
 
@@ -44,13 +44,13 @@ The next issue I had was that I created a different repository by accident so wh
 
 {{< youtube hBQlCtfRmqs >}}
 
-#### Getting yourself a custom domain (optional)
+### Getting yourself a custom domain (optional)
 
 * Obtain that domain!
 
 {{< youtube S7DVyHfv4zM >}}
 
-#### Linking Netlify and your custom domain
+### Linking Netlify and your custom domain
 
 * Find the IP from the [documentation](https://docs.netlify.com/domains-https/custom-domains/)
 * Setup the custom records
@@ -60,11 +60,11 @@ The next issue I had was that I created a different repository by accident so wh
 
 {{< youtube Q9giWrfIJKk >}}
 
-### The final result
+## The final result
 
 Go and explore it yourself!
 
-### Reflection
+## Reflection
 
 Although I did not code the website from scratch I was still able to gain an appreciation for the processes involved. Moreover, I was able to use GitHub more which was beneficial as I would like to become more comptetent at it since it is so widely used in industry.
 

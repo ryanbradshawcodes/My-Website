@@ -16,15 +16,15 @@ I wanted to create a Discord server just for Computer Systems Engineers to incre
 
 The main thing I wanted to implement was a role selector such that users could select their current year of study. This role would then be used to determine which channels the user can see and interact with.
 
-### Prerequisites
+## Prerequisites
 
 Creating the discord channel itself requires little technical expertise. For the bot, it requires basic knowledge of the language JavaScript. At the start of each subsection I will provide some brief, bulleted steps. I would encourage you to still watch the video as this will ensure you do not miss anything.
 
 Anything that needs downloading will be linked in the bulleted steps where appropriate.
 
-### Development
+## Development
 
-#### Initial setup
+### Initial setup
 
 * [Install node.js](https://nodejs.org/en/)
 * [Install Visual Studio Code](https://code.visualstudio.com/)
@@ -37,7 +37,7 @@ Anything that needs downloading will be linked in the bulleted steps where appro
 
 {{< youtube 6IgOXmQMT68 >}}
 
-#### Creating a generic menu selector
+### Creating a generic menu selector
 
 * Create a components folder
 * Create a handle components file
@@ -50,7 +50,7 @@ Anything that needs downloading will be linked in the bulleted steps where appro
 
 {{< youtube Ance5go0e0M >}}
 
-#### Creating a role selector
+### Creating a role selector
 
 * Now you should have the foundation in place for a select menu
 * Navigate to ```src/commands/tools/<name of the menu file>```
@@ -72,7 +72,7 @@ Finally you can take the users choice and determine their roles as such:
 Within the previous if statement we just created ```if (interaction.values[0] === '[VALUE_OF_MENU_OPTION]')```
 Now you can add and remove roles with ```await member.roles.add/remove([ROLE_NAME])```
 
-#### 24/7 Bot uptime
+### 24/7 Bot uptime
 
 * Create a [Heroku account](https://signup.heroku.com/login)
 * Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-**cli**)
@@ -85,13 +85,13 @@ Now you can add and remove roles with ```await member.roles.add/remove([ROLE_NAM
 
 {{< youtube EY4T1vOVJDY >}}
 
-### The final result
+## The final result
 
 * Feel free to add me on Discord by the way!
 
 {{< youtube E2AqIqLh-Lc >}}
 
-### Reflection
+## Reflection
 
 This was a fun mini-project to complete first of all. I found it quite engaging for a few reasons:
 
