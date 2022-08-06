@@ -29,6 +29,7 @@ For my solution you will need to know about:
 
 * Dictionaries
 * For loops (indexing strings)
+* Conditionals
 
 The first thing I considered when reading this problem was that I would need to take the symbols from the given string and convert them into their integer values. The easiest way of doing this that I am aware of is through a dictionary. A dictionary allows you to define pairs of keys and values, and collect them together under a single variable. Please [click here](https://www.w3schools.com/python/python_dictionaries.asp) if you would like to learn more about them.
 

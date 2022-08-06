@@ -3,7 +3,7 @@ title: "Finding myself a Happy Number"
 date: 2022-08-03
 slug: "leetcode-202"
 description: "LeetCode problem 202 - Happy Number"
-keywords: ["guide", "website", "leetcode", "easy", "problem", "warwick", "university", "student", "13", "roman"]
+keywords: ["guide", "website", "leetcode", "easy", "problem", "warwick", "university", "student", "202"]
 draft: false
 tags: ["leetcode-easy"]
 math: false
@@ -28,6 +28,7 @@ For my solution you will need to know about:
 
 * While loops
 * For loops
+* Conditionals
 
 The first thing I thought is that you would need to use recursion to continuously calculate the the sum of the square of the digits. To end the recursion the base case would be when the number inputted is equal to 1. But then I considered what would happen if you entered a number that was not happy. In that case the function would recursively call itself until the program breaks due to reaching its [maximum recursion depth](https://www.geeksforgeeks.org/python-handling-recursion-limit/). This meant I needed to either identify that a number was not a happy number, or introduce some sort of limit. I originally only came up with the idea of setting a limit so that is what I will continue with for now.
 
