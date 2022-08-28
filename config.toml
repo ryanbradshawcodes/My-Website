@@ -67,5 +67,9 @@ googleAnalytics = "G-7HJ3VM15F9"
   title = "Blog"
   url = "/blog"
 
-
+[[menu.main]]
+  identifier = "national-grid"
+  name = "ng"
+  title = "National Grid"
+  url = "/national-grid"
 
