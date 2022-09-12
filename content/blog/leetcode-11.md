@@ -104,7 +104,7 @@ class Solution:
 
             # Increment/decrement to iterate over the smaller heights
             if (height[start] <= height[end]):
-                start = start += 1
+                start += 1
             else:
                 end -= 1
 
