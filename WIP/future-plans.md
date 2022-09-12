@@ -11,6 +11,12 @@
 ### Project with Raspberry Pi
 ---
 - [ ] More engineering-based project
+- [ ] Robot vacuum
+
+### Python webscraper
+---
+- [ ] Program that allows you to search for a research interest and then find Warwick staff that specialise in it
+- [ ] Collect the contact data and the program can then store it somewhere
 
 ## #youtube 
 
@@ -21,3 +27,7 @@
 ## #national-grid
 ---
 - [ ] Review experience as a ramble
+
+## #ramble
+---
+- [ ] My time with BCS
