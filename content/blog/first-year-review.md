@@ -20,7 +20,7 @@ I'm going to go through each module individually, providing:
 * The main downfalls of the module
 * My advice for doing well in it
 
-As a [Computer Systems Engineer](https://warwick.ac.uk/study/undergraduate/courses/compsysengmeng/) I take a mix of modules from both the Computer Science and the Engineering deparments. The course is not particularly popular (there are about 30 of us in my year), but we will hopefully develop a much wider range of skills that employers will value. Our course is often forgetten about and it is likely you will experience timetabling issues if you take this course, but there have not been any major issues yet for me.
+As a [Computer Systems Engineer](https://warwick.ac.uk/study/undergraduate/courses/compsysengmeng/) I take a mix of modules from both the Computer Science and the Engineering departments. The course is not particularly popular (there are about 30 of us in my year), but we will hopefully develop a much wider range of skills that employers will value. Our course is often forgetten about and it is likely you will experience timetabling issues if you take this course, but there have not been any major issues yet for me.
 
 If you have any questions or want any additional information, feel free to contact me on any of my listed socials!
 
