@@ -1,7 +1,7 @@
 ---
 title: "A review of second year as a CSE student..."
 date: 2023-08-18
-slug: "review"
+slug: "second-review"
 description: "A review of my second year at the University of Warwick studying Computer Systems Engineering"
 keywords: ["review", "warwick", "university", "student", "A review of second year as a CSE student..."]
 draft: false
