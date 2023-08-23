@@ -26,15 +26,24 @@ UKESF offered both summer internships and year long placements, so it is importa
 
 ### Placement
 
-Longer duration, get to take a break from uni, but have to go back, higher chance of getting graduate offer since a placement is a larger commitment, still have to pay tuitions?
+Placements offer a longer stay with your company, typically just under a year. As such you take a year out of university to complete the placement. This can be a positive or negative thing and it entirely depends on your circumstances. My position was that I had to sort out accommodation before I knew whether I had got the placement or not. Now for me this was not a huge deal since the placement would have been close enough to where I was staying, but for some people they will not get that luxury so that is something to keep in mind. Then once I knew I had it, I thought about whether I wanted to leave my year behind, specifically my housemates. Me and my current housemates were assigned to the same on campus accommodation in the first year, and so we have known each other a long time and so I was not a huge fan of leaving them for a year since by the time I got back the large majority of them would have already graduated. Moreover, I also did not like how I would leave university and get accustomed to working before having to return to university. 
 
 ### Internship
 
-Less of a commitment, doesn't interfere with university timeline.
+Internships offer a shorter stay over the summer, and so it does not disrupt the standard university flow at all. To me this felt better and so my search for placements on UKESF resorted to only looking for summer internships. An important note is that just because an internship is shorter, it does not mean it is less valuable or that you might not learn as much. You will find that most work places seem to work on a slower schedule than you might be used to at university. This is because work with industry typically involves many more people and all the communication that this creates significantly stretches out the progress that various teams make. However, with an internship, you can still keep a relatively fast pace since you will be less likely to have to be integrating with the entire team since the work you complete will probably only concern a small portion of the team.
 
 ## My placement
 
-## Scholars workshop
+I worked at [Specialised Imaging](https://www.specialised-imaging.com/) in Cambridge for 7 weeks. This company specialises in... imaging. The company works with high-speed cameras, capturing millions of frames of a scene per second. The purpose of seeing things happen in slow motion is that you get to identify what exactly happens during a given process. For example, a lot of work relates to industry and science, monitoring split-second events in a machine or through a microscope.
+
+More specifically, I worked at the smaller branch called Specialised Imaging Sensors, and so they are responsible for the camera sensors themselves rather than the entire chassis for the camera and other external components. My work was mostly concerned with the digital development of these sensors, so that included a lot of programming in a language called [Verilog](https://en.wikipedia.org/wiki/Verilog). I have spoken about Verilog a little in my [second-year university review](https://www.ryanbradshaw.dev/blog/second-review/#es2e3-cse-specific), so feel free to check that out.
+
+The goal of my work was to create test patterns
+
+![Bars](https://i.postimg.cc/15rnLb79/bars.png)
+![Fade](https://i.postimg.cc/Z5f9qph2/fade.png)
+![Pseudorandom](https://i.postimg.cc/GpVHFRtj/pseudorandom.png)
+![Tiles](https://i.postimg.cc/HLVr8nYx/tiles.png)
 
 ## My advice
 
