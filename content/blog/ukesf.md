@@ -12,7 +12,7 @@ toc: true
 
 ## Motivation
 
-[UKESF](https://www.ukesf.org/) has given me the opportunity to undergo an excellent internship, as well as providing support with a plethora of resources. As such I wish to share my experience in the hopes that it will encourage fellow students to look into it. Moreover, for people that have not started univeristy yet, I want to show a cool avenue that studying electronics can take you down.
+[UKESF](https://www.ukesf.org/) has given me the opportunity to undergo an excellent internship, as well as providing support with a plethora of resources. As such I wish to share my experience in the hopes that it will encourage fellow students to look into it. Moreover, for people that have not started university yet, I want to show a cool avenue that studying electronics can take you down.
 
 ## How it started
 
