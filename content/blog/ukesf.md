@@ -12,7 +12,7 @@ toc: true
 
 ## Motivation
 
-[UKESF](https://www.ukesf.org/)
+[UKESF](https://www.ukesf.org/) has given me the opportunity to undergo an excellent internship, as well as providing support with a plethora of resources. As such I wish to share my experience in the hopes that it will encourage fellow students to look into it. Moreover, for people that have not started univeristy yet, I want to show a cool avenue that studying electronics can take you down.
 
 ## How it started
 
@@ -38,12 +38,12 @@ I worked at [Specialised Imaging](https://www.specialised-imaging.com/) in Cambr
 
 More specifically, I worked at the smaller branch called Specialised Imaging Sensors, and so they are responsible for the camera sensors themselves rather than the entire chassis for the camera and other external components. My work was mostly concerned with the digital development of these sensors, so that included a lot of programming in a language called [Verilog](https://en.wikipedia.org/wiki/Verilog). I have spoken about Verilog a little in my [second-year university review](https://www.ryanbradshaw.dev/blog/second-review/#es2e3-cse-specific), so feel free to check that out.
 
-The goal of my work was to create test patterns
+The goal of my work was to create test patterns which are used to ensure that the codebase is working as expected when changed. For example, if the sensor chip code we are working on is changed for whatever reason, we can then re-run our test pattern to check everything is as expected. The test patterns themselves follow strict industry standards, making them applicable across companies.
 
-![Bars](https://i.postimg.cc/15rnLb79/bars.png)
-![Fade](https://i.postimg.cc/Z5f9qph2/fade.png)
+Below is a particularly interesting pattern I was tasked with making. This involved generating a pseudorandom sequence with an [LFSR](https://www.sciencedirect.com/topics/mathematics/linear-feedback-shift-register#:~:text=A%20linear%20feedback%20shift%20register,its%20previous%20states%20(taps).
+). This brought its fair number of challenges with it due to the stringent rules needed to conform to the standards.
+
 ![Pseudorandom](https://i.postimg.cc/GpVHFRtj/pseudorandom.png)
-![Tiles](https://i.postimg.cc/HLVr8nYx/tiles.png)
 
 ## My advice
 
