@@ -18,7 +18,7 @@ toc: true
 
 My journey with UKESF started with an outreach e-mail from my engineering department which introduced the scheme and directed me towards the application process. I did not have any internship plans lined up for the summer, so I was instantly curious about the opportunity and started looking through the options available.
 
-There was a really wide variety of offers available which was positive to see as I did not feel limited in my options.
+There was a really wide variety of offers available which was positive to see. Initially we were allowed to apply to two different companies, though over the upcoming months we were allowed to apply to even more companies. This is entirely dependent on the company uptakes, and so it is not guaranteed to happen in future years. Ensure you pick companies you want to get accepted for rather than blindly choosing!
 
 ## Placement vs internship
 
@@ -44,6 +44,8 @@ Below is a particularly interesting pattern I was tasked with making. This invol
 ). This brought its fair number of challenges with it due to the stringent rules needed to conform to the standards.
 
 ![Pseudorandom](https://i.postimg.cc/GpVHFRtj/pseudorandom.png)
+
+A secondary goal of my work was to characterise a camera sensor on a Raspberry Pi. Characterisation is the process by which we aim to understand how a sensor is performing under a variety of criteria. The information gathered through this process would then be shared with professional customers, and they can determine whether the sensor would be appropriate for their needs or not.
 
 ## My advice
 
