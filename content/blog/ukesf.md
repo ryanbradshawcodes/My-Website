@@ -14,6 +14,8 @@ toc: true
 
 [UKESF](https://www.ukesf.org/) has given me the opportunity to undergo an excellent internship, as well as providing support with a plethora of resources. As such I wish to share my experience in the hopes that it will encourage fellow students to look into it. Moreover, for people that have not started university yet, I want to show a cool avenue that studying electronics can take you down.
 
+{{< youtube 28tK__f4mnk >}}
+
 ## How it started
 
 My journey with UKESF started with an outreach e-mail from my engineering department which introduced the scheme and directed me towards the application process. I did not have any internship plans lined up for the summer, so I was instantly curious about the opportunity and started looking through the options available.
