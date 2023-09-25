@@ -49,7 +49,7 @@ Below is a particularly interesting pattern I was tasked with making. This invol
 
 A secondary goal of my work was to characterise a camera sensor on a Raspberry Pi. Characterisation is the process by which we aim to understand how a sensor is performing under a variety of criteria. The information gathered through this process would then be shared with professional customers, and they can determine whether the sensor would be appropriate for their needs or not. Below is the report that I produced that would then typically get shared.
 
-<img src="https://i.postimg.cc/Wzt9x8d9/Sensor-characterisation-analysis.png" alt="Sensor characterisation report" width="600"/>
+<img src="https://i.postimg.cc/Wzt9x8d9/Sensor-characterisation-analysis.png" alt="Sensor characterisation report" width="800"/>
 
 ## My advice
 
