@@ -45,7 +45,7 @@ The goal of my work was to create test patterns which are used to ensure that th
 Below is a particularly interesting pattern I was tasked with making. This involved generating a pseudorandom sequence with an [LFSR](https://www.sciencedirect.com/topics/mathematics/linear-feedback-shift-register#:~:text=A%20linear%20feedback%20shift%20register,its%20previous%20states%20(taps).
 ). This brought its fair number of challenges with it due to the stringent rules needed to conform to the standards.
 
-![Pseudorandom](https://i.postimg.cc/GpVHFRtj/pseudorandom.png)
+<img src="https://i.postimg.cc/GpVHFRtj/pseudorandom.png" alt="Pseudorandom image" width="600"/>
 
 A secondary goal of my work was to characterise a camera sensor on a Raspberry Pi. Characterisation is the process by which we aim to understand how a sensor is performing under a variety of criteria. The information gathered through this process would then be shared with professional customers, and they can determine whether the sensor would be appropriate for their needs or not. Below is the report that I produced that would then typically get shared.
 
