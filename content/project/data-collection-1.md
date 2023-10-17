@@ -34,3 +34,15 @@ This is the first task outlined on the Gantt chart following the project specifi
 * Get tensorflow locally
 * See how to provide test data to tensorflow model, and how to add labels
   * Do I want the NSRDB and PVLive in separate or combined CSV?
+
+# 17/10/23
+
+## Action points
+
+* Downloaded tensorflow locally
+  * Will my laptop be powerful enough? Should I use DCS instead? I never mentioned this in my specification but it was considered. I don't think for the foundational model it will be required but once Satellite imagery is involved it may become more intensive
+* The data can stay in separate files then be accessed separately within the code
+  * It can then be merged easily in code if necessary
+* Data formatted and is accessible from the code for use in the model
+* Trying to find how to provide the test data which is leading to looking into ANNs
+  * Perceptron models -> receive multiple numerical inputs to produce a single numerical output (output is binary)
