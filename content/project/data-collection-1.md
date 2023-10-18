@@ -46,3 +46,22 @@ This is the first task outlined on the Gantt chart following the project specifi
 * Data formatted and is accessible from the code for use in the model
 * Trying to find how to provide the test data which is leading to looking into ANNs
   * Perceptron models -> receive multiple numerical inputs to produce a single numerical output (output is binary)
+
+# 18/10/23
+
+## Action points
+
+* Since I've got all the data I'm slightly ahead of schedule and am looking into models and trying to build the foundational model
+* First attempt with mean squared error loss of nan, accuracy increases slightly once then maintains constant value so errors
+  * Since I had to gather sections of the data in the code, the ordering is different again so times aren't matching up
+* Sort data within the code so its always consistent
+  * Data now looks correct and is temporally matching
+* Same issue with the model itself
+
+## TODO
+
+* Potentially normalise the values for input and labels
+  * NSRDB currently has large ranges and for each measurement the range is different
+  * PVLive has large range between ~50 to e-5
+* Which activation function should I be using, since sigmoid is for classification so that doesn't apply here
+  * I think it is linear
