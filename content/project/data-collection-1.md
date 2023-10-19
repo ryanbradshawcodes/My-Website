@@ -10,13 +10,13 @@ math: false
 toc: true
 ---
 
-# Motivation
+## Motivation
 
 This is the first task outlined on the Gantt chart following the project specification submission.
 
-# 16/10/23
+## 16/10/23
 
-## Action points
+### Action points
 
 * Selected GSP ABHA1, Latitude: 50.47108, Longitude: -3.72977, PVLive ID: 1
 * Collected NSRDB data with corresponding coordinates, temporal accuracy of 30 minutes
@@ -29,15 +29,15 @@ This is the first task outlined on the Gantt chart following the project specifi
 * Getting PV data for corresponding GSP between date and time specified
   * The time ordering of the data is inconsistent, but can be sorted with a simple A to Z Excel sort
 
-## TODO
+### TODO
 
 * Get tensorflow locally
 * See how to provide test data to tensorflow model, and how to add labels
   * Do I want the NSRDB and PVLive in separate or combined CSV?
 
-# 17/10/23
+## 17/10/23
 
-## Action points
+### Action points
 
 * Downloaded tensorflow locally
   * Will my laptop be powerful enough? Should I use DCS instead? I never mentioned this in my specification but it was considered. I don't think for the foundational model it will be required but once Satellite imagery is involved it may become more intensive
@@ -47,9 +47,9 @@ This is the first task outlined on the Gantt chart following the project specifi
 * Trying to find how to provide the test data which is leading to looking into ANNs
   * Perceptron models -> receive multiple numerical inputs to produce a single numerical output (output is binary)
 
-# 18/10/23
+## 18/10/23
 
-## Action points
+### Action points
 
 * Since I've got all the data I'm slightly ahead of schedule and am looking into models and trying to build the foundational model
 * First attempt with mean squared error loss of nan, accuracy increases slightly once then maintains constant value so errors
@@ -58,10 +58,14 @@ This is the first task outlined on the Gantt chart following the project specifi
   * Data now looks correct and is temporally matching
 * Same issue with the model itself
 
-## TODO
+### TODO
 
 * Potentially normalise the values for input and labels
   * NSRDB currently has large ranges and for each measurement the range is different
   * PVLive has large range between ~50 to e-5
 * Which activation function should I be using, since sigmoid is for classification so that doesn't apply here
   * I think it is linear
+
+## 19/10/23
+
+* Attended webinar
