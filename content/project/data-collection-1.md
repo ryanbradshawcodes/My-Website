@@ -69,3 +69,12 @@ This is the first task outlined on the Gantt chart following the project specifi
 ## 19/10/23
 
 * Attended webinar
+  * Not too applicable, interesting to hear about how the system works in California
+* Normalised the data
+  * Still not improved the model
+* I think the abundance of all zero rows is causing issues
+  * I need to remove all 0s rows between both NSRDB and PVLive
+
+### TODO
+
+* Correct bug for removing 0 rows
