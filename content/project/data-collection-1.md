@@ -78,3 +78,18 @@ This is the first task outlined on the Gantt chart following the project specifi
 ### TODO
 
 * Correct bug for removing 0 rows
+
+## 20/10/23
+
+### Action points
+
+* Indexing of PVLive zero rows was wrong
+  * This was due to sorting by ascending order
+  * But it needs to be sorted so the data sets match temporally
+  * ignore_index = true seems to fix this
+* Not working
+  * Could be useful: https://www.tensorflow.org/tutorials/keras/regression
+
+### TODO
+
+* Replace my data with Auto MPG
