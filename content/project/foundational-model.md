@@ -48,3 +48,16 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Accuracy far too low, looking for at least 70% for specification goal
 * For a day/few days plot actual pv generation at the gsp to predictions
   * Although it's not good enough yet, sorting the code for plotting will be useful
+
+## 24/10/23
+
+### Action points
+
+* Accuracy is not a correct measure for regression problems
+  * "In regression you are estimating the parameters. So, you can’t say an estimated value completely wrong or completely right, but you can only say how far or near it is to the original value"  
+  * mean squared, root mean squared, mean absolute
+
+### TODO
+
+* Report errors
+  * Should do it in plot form
