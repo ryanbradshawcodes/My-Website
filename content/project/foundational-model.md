@@ -61,3 +61,19 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 * Report errors
   * Should do it in plot form
+
+# 25/10/23
+
+### Action points
+
+* Plotting a single day of actual generation data
+* Making predictions (currently on training data not validation)
+  * Reverted normalisation
+  * Some values negative
+  * Predictions don't appear close: loss = 0.0050, mae = 0.0430, mse = 0.0050 (but this is on normalised data)
+
+### TODO
+
+* Check I understand how the predict method works
+* Check I am reverting normalisation properly for the predictions
+* Plot a single day of predictions vs the actual plot
