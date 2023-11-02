@@ -77,3 +77,22 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Check I understand how the predict method works
 * Check I am reverting normalisation properly for the predictions
 * Plot a single day of predictions vs the actual plot
+
+# 1/11/23
+
+### Action points
+
+* Plotted normalised predicted vs actual data over 2 days
+  * Fair correlation in the plots
+
+# 2/11/23
+
+### Action points
+
+* Looking into GSP region ABHA1
+  * I'm using the central location and correlating that to NWP data at the same longitude and latitude currently
+  * ABHA1 = Abham
+  * Report in notes to show at meeting
+  * I've emailed Jamie Taylor from PV_Live for more information
+
+* I think using the central location was fine for prototyping but my strategy will need to change
