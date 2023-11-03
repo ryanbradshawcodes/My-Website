@@ -102,3 +102,5 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 ### Action points
 
 * Clean up code
+* Re plotting
+* Working on using historical data more effectively
