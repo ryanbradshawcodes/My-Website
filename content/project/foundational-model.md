@@ -96,3 +96,9 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
   * I've emailed Jamie Taylor from PV_Live for more information
 
 * I think using the central location was fine for prototyping but my strategy will need to change
+
+# 3/11/23
+
+### Action points
+
+* Clean up code
