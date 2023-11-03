@@ -62,7 +62,7 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Report errors
   * Should do it in plot form
 
-# 25/10/23
+## 25/10/23
 
 ### Action points
 
@@ -78,14 +78,14 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Check I am reverting normalisation properly for the predictions
 * Plot a single day of predictions vs the actual plot
 
-# 1/11/23
+## 1/11/23
 
 ### Action points
 
 * Plotted normalised predicted vs actual data over 2 days
   * Fair correlation in the plots
 
-# 2/11/23
+## 2/11/23
 
 ### Action points
 
@@ -97,7 +97,7 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 * I think using the central location was fine for prototyping but my strategy will need to change
 
-# 3/11/23
+## 3/11/23
 
 ### Action points
 
