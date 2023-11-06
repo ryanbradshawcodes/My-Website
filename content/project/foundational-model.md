@@ -117,3 +117,13 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 * Undo normalisation for plot
 * Use more rows of data for each PV output
+
+## 6/11/23
+
+* New file which is more organised
+* Working on using historical data & predicting ahead
+* Researching time series prediction
+
+### TODO
+
+* Continue with this work
