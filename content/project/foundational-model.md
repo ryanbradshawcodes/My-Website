@@ -104,3 +104,16 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Clean up code
 * Re plotting
 * Working on using historical data more effectively
+
+## 5/11/23
+
+### Action points
+
+* Clean up code
+* Produced another PV actual v predicted plot
+  * [Normalised-actual-vs-predicted-2.png](https://postimg.cc/Cz6C6XYD)
+
+### TODO
+
+* Undo normalisation for plot
+* Use more rows of data for each PV output
