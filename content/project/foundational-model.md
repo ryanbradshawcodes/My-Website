@@ -120,6 +120,8 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 ## 6/11/23
 
+### Action points
+
 * New file which is more organised
 * Working on using historical data & predicting ahead
 * Researching time series prediction
@@ -127,3 +129,16 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 ### TODO
 
 * Continue with this work
+
+## 7/11/23
+
+### Action points
+
+* Continuing with research and upgrading model
+* Plotted NWP inputs in training set
+  * [nwp-data.png](https://postimg.cc/tsc7XSRn)
+
+### TODO
+
+* Fix array sizing mismatch
+* Couple of changes to make use of multiple rows of past data
