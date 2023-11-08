@@ -142,3 +142,17 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 * Fix array sizing mismatch
 * Couple of changes to make use of multiple rows of past data
+
+## 8/11/23
+
+### Action points
+
+* Fixed bugs
+* Using past data
+* Good loss curve, but bad predictions
+
+### TODO
+
+* Clean up function arguments
+  * Calling a lot of times unnecessarily
+* Debug the bad prediction despite good loss
