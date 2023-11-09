@@ -156,3 +156,16 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Clean up function arguments
   * Calling a lot of times unnecessarily
 * Debug the bad prediction despite good loss
+
+## 9/11/23
+
+### Action points
+
+* Bugs fixed
+* Predictions good, but graph shape not as expected
+
+### TODO
+
+* Get the normal bell curve shape back
+  * Then can start evaluating use of multiple past data rows
+  * As well as how far we can predict ahead
