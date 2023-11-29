@@ -169,4 +169,35 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 * Get the normal bell curve shape back
   * Then can start evaluating use of multiple past data rows
   * As well as how far we can predict ahead
->>>>>>> f75094cd344081bba65b0d87a92692b144cfd524
+
+## 22/11/23
+
+Significant coursework workloads and personal circumstances have delayed progress. 
+Research has been completed outside of what has been mentioned in the blog, as well as additional
+meetings with companies.
+
+## 24/11/23
+
+### Action points
+
+* Producing epoch loss graphs
+* Increasing size of input data
+
+## 27/11/23
+
+### Action points
+
+* Validating plots
+
+## 28/11/23
+
+### Action points
+
+* Formulating progress report
+
+## 29/11/23
+
+### Action points
+
+* Reporting error evolution
+* Formulating progress report
