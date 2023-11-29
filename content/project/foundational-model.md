@@ -97,34 +97,76 @@ This is the second task outlined in the Gantt chart. Some preliminary work has a
 
 * I think using the central location was fine for prototyping but my strategy will need to change
 
-## 22/11/23
-
-Significant coursework workloads and personal circumstances have delayed progress. 
-Research has been completed outside of what has been mentioned in the blog, as well as additional
-meetings with companies.
-
-## 24/11/23
+## 3/11/23
 
 ### Action points
 
-* Producing epoch loss graphs
-* Increasing size of input data
+* Clean up code
+* Re plotting
+* Working on using historical data more effectively
 
-## 27/11/23
-
-### Action points
-
-* Validating plots
-
-## 28/11/23
+## 5/11/23
 
 ### Action points
 
-* Formulating progress report
+* Clean up code
+* Produced another PV actual v predicted plot
+  * [Normalised-actual-vs-predicted-2.png](https://postimg.cc/Cz6C6XYD)
 
-## 29/11/23
+### TODO
+
+* Undo normalisation for plot
+* Use more rows of data for each PV output
+
+## 6/11/23
 
 ### Action points
 
-* Reporting error evolution
-* Formulating progress report
+* New file which is more organised
+* Working on using historical data & predicting ahead
+* Researching time series prediction
+
+### TODO
+
+* Continue with this work
+
+## 7/11/23
+
+### Action points
+
+* Continuing with research and upgrading model
+* Plotted NWP inputs in training set
+  * [nwp-data.png](https://postimg.cc/tsc7XSRn)
+
+### TODO
+
+* Fix array sizing mismatch
+* Couple of changes to make use of multiple rows of past data
+
+## 8/11/23
+
+### Action points
+
+* Fixed bugs
+* Using past data
+* Good loss curve, but bad predictions
+
+### TODO
+
+* Clean up function arguments
+  * Calling a lot of times unnecessarily
+* Debug the bad prediction despite good loss
+
+## 9/11/23
+
+### Action points
+
+* Bugs fixed
+* Predictions good, but graph shape not as expected
+
+### TODO
+
+* Get the normal bell curve shape back
+  * Then can start evaluating use of multiple past data rows
+  * As well as how far we can predict ahead
+>>>>>>> f75094cd344081bba65b0d87a92692b144cfd524
