@@ -201,3 +201,21 @@ meetings with companies.
 
 * Reporting error evolution
 * Formulating progress report
+
+## 30/11/23
+
+### Action points
+
+* Script for improved coverage of error evolution
+
+### TODO
+
+* Distinction between NSRDB data and standard NWP data
+* Look into Renewables Ninja
+* Look into Solar forecast arbiter
+* Normalise PV generation values using the capacity of the gsp region (PV yield)
+  * This is to deal with a region installing new capacity and having a spike in pv generation
+* Discuss ideas of collecting more data points within a gsp, as well as neighbouring gsps
+  * Potential research focused direction
+* Attempt to collect normal NWP data from ECMWF
+  * Validate trained model on ECMWF data
