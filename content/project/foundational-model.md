@@ -219,3 +219,23 @@ meetings with companies.
   * Potential research focused direction
 * Attempt to collect normal NWP data from ECMWF
   * Validate trained model on ECMWF data
+
+## 4/12/23
+
+### Action points
+
+* Focused on producing the final report from 30/11/23
+* Called John Walsh (head of forecasting and ESO) to discuss use of forecasting tools
+
+## 5/12/23
+
+### Action points
+
+* Called Jamie Taylor (Sheffield Solar) to further discuss my project and areas to look at
+
+## 6/12/23
+
+### Action points
+
+* Using PV yield for training to account for GSP capacity
+
