@@ -201,3 +201,41 @@ meetings with companies.
 
 * Reporting error evolution
 * Formulating progress report
+
+## 30/11/23
+
+### Action points
+
+* Script for improved coverage of error evolution
+
+### TODO
+
+* Distinction between NSRDB data and standard NWP data
+* Look into Renewables Ninja
+* Look into Solar forecast arbiter
+* Normalise PV generation values using the capacity of the gsp region (PV yield)
+  * This is to deal with a region installing new capacity and having a spike in pv generation
+* Discuss ideas of collecting more data points within a gsp, as well as neighbouring gsps
+  * Potential research focused direction
+* Attempt to collect normal NWP data from ECMWF
+  * Validate trained model on ECMWF data
+
+## 4/12/23
+
+### Action points
+
+* Focused on producing the final report from 30/11/23
+* Called John Walsh (head of forecasting and ESO) to discuss use of forecasting tools
+
+## 5/12/23
+
+### Action points
+
+* Called Jamie Taylor (Sheffield Solar) to further discuss my project and areas to look at
+
+## 6/12/23
+
+### Action points
+
+* Using PV yield for training to account for GSP capacity
+
