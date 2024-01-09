@@ -1,6 +1,6 @@
 ---
 title: "Further data collection (satellite imagery)"
-date: 2024-9-1
+date: 2024-09-01
 slug: "data-1"
 description: "Data for developing the model"
 keywords: ["project", "data", "TensorFlow", "machine learning"]
