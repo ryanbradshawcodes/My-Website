@@ -29,3 +29,11 @@ The main chunk of work for second term will involve incorporating satellite imag
 * If I remain ahead of schedule I will then look into further improvements to the model
   * Looking at data regarding aerosols
   * Not dealing with live data since this will be a major challenge with little reward for the report
+  
+## 10/1/24
+
+### Action points
+
+* Deciding which satellite datasets to use from the ones I have available
+* Working on finely selecting the data to access around the key GSP I'm considering
+* E-mailed for support
