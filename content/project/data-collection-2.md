@@ -37,6 +37,7 @@ The main chunk of work for second term will involve incorporating satellite imag
 * Deciding which satellite datasets to use from the ones I have available
 * Working on finely selecting the data to access around the key GSP I'm considering
 * E-mailed for support
+* Made a kanban board for coding tasks to keep better track of them
 
 ## 11/1/24
 
