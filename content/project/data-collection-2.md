@@ -37,3 +37,16 @@ The main chunk of work for second term will involve incorporating satellite imag
 * Deciding which satellite datasets to use from the ones I have available
 * Working on finely selecting the data to access around the key GSP I'm considering
 * E-mailed for support
+
+## 11/1/24
+
+### Action points
+
+* Refined selection of data
+* Collecting multiple time samples at once
+* Started looking into the model to use for just satellite -> pv
+
+### TODO
+
+* Model is giving nan which likely means there is missing/erroneous data
+  * More pre-processing required
