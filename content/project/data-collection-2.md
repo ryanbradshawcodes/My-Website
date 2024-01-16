@@ -86,3 +86,22 @@ The main chunk of work for second term will involve incorporating satellite imag
 
 * Continue working on pre-processing
 * Will have to check in the end that all the data is temporally matching
+
+## 16/1/24
+
+### Action points
+
+* 5000 images - model seems fine except around july where additional small peaks are predicted between two consecutive days
+* 7500 images - prediction is shifted up by ~5MW
+* 6000 images - still shifted
+* 5500 images - prediction is shifted down by ~2MW
+* 5250 images - prediction is shifted up by ~1.8MW
+* 5100 images - model fine, peaks start from around sample 3900
+* 5175 images - prediction is shifted down minimally
+* 5150 images - prediction shifted up
+* 5125 images - prediction shifted up
+* 5110 images - prediction shifted up
+* 5105 - tiny shift
+* 5103 - large shift ~ 4.5MW
+
+* There doesn't seem to be an issue with the satellite data in terms of the timing, so it may be the content of the image, or from the gsp data?
