@@ -101,7 +101,19 @@ The main chunk of work for second term will involve incorporating satellite imag
 * 5150 images - prediction shifted up
 * 5125 images - prediction shifted up
 * 5110 images - prediction shifted up
-* 5105 - tiny shift
-* 5103 - large shift ~ 4.5MW
+* 5105 images - tiny shift
+* 5103 images - large shift ~ 4.5MW
+* 5012 images - shift below
+* 5011 images - large shift ~ 4.5MW
+* Nevermind 5100 is shifted
+
+4000 fine, 4500 bad, 4250 fine, 4400 small shift
 
 * There doesn't seem to be an issue with the satellite data in terms of the timing, so it may be the content of the image, or from the gsp data?
+
+## 17/1/24
+
+* Still trying to determine where the prediction shift originates from
+  * There aren't NaN values in the satellites data
+  * Since some of the times were missing, data is chosen at 30min intervals, but there's a chance that 30 min interval could be missing
+    * This appears to be the issue since although asking for x images provides x images, the timing of the last image is further ahead than it's supposed to be
