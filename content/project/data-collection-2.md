@@ -105,3 +105,25 @@ The main chunk of work for second term will involve incorporating satellite imag
 * 5103 - large shift ~ 4.5MW
 
 * There doesn't seem to be an issue with the satellite data in terms of the timing, so it may be the content of the image, or from the gsp data?
+
+## 17/1/24
+
+### Action points
+
+* Satellite data - timing correct but jumps from 16th to 18th @ index 739
+
+```
+2018-01-16T09:00:00.000000000
+2018-01-18T09:30:00.000000000
+```
+
+* Automatically detecting further discrepencies
+
+## 21/1/24
+
+### Action points
+
+* (Missed a few days of logging progress)
+* All data collection complete
+* Refactored repository for improved code readability
+* Attempting to produce a hybrid model
