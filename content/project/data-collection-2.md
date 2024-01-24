@@ -132,3 +132,14 @@ The main chunk of work for second term will involve incorporating satellite imag
 * All data collection complete
 * Refactored repository for improved code readability
 * Attempting to produce a hybrid model
+
+## 24/1/24
+
+### Action points
+
+* Still working on the hybrid model
+* Looking into how the CNN works for satellite images
+
+### TODO
+
+* Perhaps the data can be merged before the models?
