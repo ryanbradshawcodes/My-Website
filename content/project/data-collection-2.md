@@ -143,3 +143,26 @@ The main chunk of work for second term will involve incorporating satellite imag
 ### TODO
 
 * Perhaps the data can be merged before the models?
+
+## 28/1/24
+
+### Action points
+
+* Just trying to use the nwp data in the hybrid file isn't giving expected results
+* Satellite was also shifted up so going to need to check for NaNs again
+* Warning skipping variable loading...?
+
+## 30/1/24
+
+### Action points
+
+* Training and testing data split by months. Testing periodically over the year to get representations of the seasons
+* NWP and sat in single file with hybrid to avoid loading models - positive results so far
+
+## 31/1/24
+
+### Action points
+
+* Drew approximate grid system over UK to replicate NSDRB satellite resolution
+* Collected additional points for surrounding grids
+  * Issue with not all additional points giving a new CSV file
